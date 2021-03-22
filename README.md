@@ -38,3 +38,5 @@ Here are projects during my Unity learning.
 - [ ] Ruby animation
 - [ ] Monster animation
 - [ ] Game UI
+
+Updates
